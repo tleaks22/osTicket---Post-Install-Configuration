@@ -22,8 +22,7 @@ This outlines the post-install configuration of the open-source help desk ticket
 - Configure Roles (for grouping permissions) along with departments
 - Configure Teams and allow all users to create tickets
 - Create a mock agent and set a password
-- Create a user and configure the SLA
-- Item 5
+- Create a user and configure the SLA (3-tier setup)
 
 <h2>Configuration Steps</h2>
 
@@ -62,6 +61,6 @@ Here, I created a mock agent and set its password data.
 
 </p>
 <p>
-Here, I created a mock user and configured the SLA for the system
+Here, I created a mock user and configured the SLA into a 3-tier system (Sev-A, B, and C), based on time length and severity
 </p>
 <br />
